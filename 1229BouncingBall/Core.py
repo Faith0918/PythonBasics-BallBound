@@ -44,4 +44,3 @@ class Core:
 
 core = Core()
 core.run()
-
